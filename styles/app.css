@@ -1,0 +1,19 @@
+#video1 {
+	float: none;
+}
+#video2 {
+	float: none;
+}
+
+.Video1Container {
+	float: left;
+	width: 25%;
+}
+
+.Video2Container {
+	width: 75%;
+}
+
+.AppContainer {
+	width: 80%;
+}
